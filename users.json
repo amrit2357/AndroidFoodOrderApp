@@ -1,0 +1,170 @@
+{
+  "category": {
+    "01": {
+      "Name": "Amrit",
+      "Image": "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg"
+    },
+    "02": {
+      "Name": "Harman",
+      "Image": "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg"
+    },
+    "03": {
+      "Name": "Simran",
+      "Image": "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg"
+    },
+    "04": {
+      "Name": "Harshit",
+      "Image": "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg"
+    },
+    "05": {
+      "Name": "Gagan",
+      "Image": "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg"
+    },
+    "06": {
+      "Name": "Neeraj",
+      "Image": "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg"
+    }
+  },
+  
+  "food":{
+    "01": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"01"
+    },
+   "02": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"01"
+    },
+   "03": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"01"
+    },
+   "04": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"02"
+    },
+  "05": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"02"
+    },
+  "06": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"02"
+    },
+   "07": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"03"
+    },
+   "08": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"03"
+    },
+   "09": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"04"
+    },
+   "10": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"04"
+    },
+   "11": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"05"
+    },
+   "12": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"05"
+    },
+   "13": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"05"
+    },
+   "14": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"06"
+    },
+   "15": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"06"
+    },
+   "16": {
+      "Name" : "Amrit",
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1026-l.jpg",
+      "Description" : "Rice Vermicilli served in santan-free curry with chicken",
+      "Price" : "1000",
+      "Discount" :"0",
+      "MenuId" :"06"
+    }
+   },
+
+  "user": {
+    "09779158589": {
+      "name": "amrit",
+      "password": "amritpal"
+    },
+    "09779158588": {
+      "name": "harman",
+      "password": "harmanpreet"
+    }
+  }
+}

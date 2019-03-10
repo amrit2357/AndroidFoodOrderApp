@@ -1,0 +1,12 @@
+{
+  "user": {
+    "09779158589": {
+      "name": "amrit",
+      "password": "amritpal"
+    },
+    "09779158588": {
+      "name": "harman",
+      "password": "harmanpreet"
+    }
+  }
+}
