@@ -4,7 +4,7 @@ public class User {
     private String Name;
     private String Password;
     private String Phone;
-
+    private String isStaff;
     public String getPhone() {
         return Phone;
     }
@@ -21,6 +21,14 @@ public class User {
     public User(String name , String password ){
         Name = name;
         Password = password;
+        isStaff = false;
+    }
+     public String getIsStaff() {
+        return isStaff;
+    }
+
+    public void setIsStaff(String isStaff) {
+        this.isStaff = isStaff;
     }
     public void setName(String name) {
         Name = name;
