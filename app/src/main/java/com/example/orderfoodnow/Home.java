@@ -89,6 +89,10 @@ public class Home extends AppCompatActivity
         recycler_menu.setHasFixedSize(true);
         layoutManager = new LinearLayoutManager(this);
         recycler_menu.setLayoutManager(layoutManager);
+        
+        // register a service
+        Intent service = new Intent( Home.this, ListenOrder.class );
+        startService( service );
         LoadMenu();
 
     }
